@@ -5,11 +5,6 @@
 * https://ardalis.com/how-to-add-a-nuget-package-using-dotnet-add
 * https://github.com/Azure/azure-sdk-for-media-services
 * https://github.com/Azure/azure-sdk-for-media-services-extensions
-* satoshitoriumifuturestandar.onmicrosoft.com
-* https://mediaservicehackfest2017.restv2.japaneast.media.azure.net/api/
-* https://rest.media.azure.net
-* https://qiita.com/acple@github/items/e80bef939583fc2b0e5e
-* F1o9p3Nrst4UoSH092k7O6rXT3rvyq8OAP2v6SEYxhs=
 * .NET Standard - API 仕様
 * .NET Framework - windows runtime - net46 = netstandard1.3
 * .NET Core - crossplatform - netcoreapp1.0 = netstandard1.6
